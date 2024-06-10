@@ -43,8 +43,8 @@ sudo apt-get install libsfml-dev
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gravity-simulation.git
-   cd gravity-simulation
+   git clone https://github.com/BreakWooden/Gravity.git
+   cd Gravity
    ```
 
 2. Make sure you have a C++ compiler installed (e.g., `g++` or `clang`).

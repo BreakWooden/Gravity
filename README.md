@@ -4,7 +4,7 @@ This repository contains a gravity simulation program written in C++ using the S
 
 ## Warning
 
-This program has been developed with the assistance of the GPT-4 model by OpenAI. 
+This program has been developed with the assistance of the GPT-4o model by OpenAI. 
 
 ## Features
 

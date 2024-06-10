@@ -61,10 +61,6 @@ sudo apt-get install libsfml-dev
 
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [SFML](https://www.sfml-dev.org/) - Simple and Fast Multimedia Library

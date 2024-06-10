@@ -54,7 +54,8 @@ sudo apt-get install libsfml-dev
 
 4. Run the executable:
    ```bash
-   ./gravity_sim```
+   ./gravity_sim
+   ```
 
 ## Contributing
 

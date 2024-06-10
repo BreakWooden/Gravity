@@ -9,6 +9,8 @@ This program has been developed with the assistance of the GPT-4o model by OpenA
 ## Features
 
 - **Particle Creation**:
+  - **- Key** to decrease the Gravity   
+  - **= Key** to increase the Gravity  
   - **Left Click**: Hold and release to create a particle. The velocity of the particle depends on the distance the mouse is dragged.
   - **Right Click**: Hold to generate multiple particles. The number of particles created depends on the duration of the hold.
 - **Particle Management**:
